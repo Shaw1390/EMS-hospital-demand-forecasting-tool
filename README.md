@@ -49,7 +49,7 @@ Run the dashboard using:
 streamlit run app.py
 ```
 
-Then open http://localhost:8501 in a web browser to interact with the dashboard. 
+Then open http://localhost:8501 in a web browser to interact with the dashboard.  (https://extendible-rearrangeable-xzavier.ngrok-free.dev/)
 
 ## License
 
