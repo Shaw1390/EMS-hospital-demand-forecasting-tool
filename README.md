@@ -3,7 +3,7 @@
 ## Overview
 This project explores how environmental conditions, air pollution, and digital health signals affect daily EMS call volumes in Toronto. Multiple datasets were combined, including climate and weather data, air quality measurements, Google Trends health-related searches, and EMS call records.
 
-We performed exploratory data analysis, created lag and rolling average features, and trained a Random Forest model to predict EMS calls. All results are presented in an interactive Streamlit dashboard.
+We performed exploratory data analysis, created lag and rolling average features, and trained a Random Forest model to predict EMS calls. All results are presented in an interactive Streamlit dashboard. 
 
 ## Data Sources
 - **Climate Data:** Daily weather stats from Environment Canada  
