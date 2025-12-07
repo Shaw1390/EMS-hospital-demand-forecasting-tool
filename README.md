@@ -26,7 +26,7 @@ We performed exploratory data analysis, created lag and rolling average features
 - Feature importance chart from the Random Forest model  
 - Actual vs predicted EMS calls  
 - Filters by date range and search trends  
-![Dashboard GIF](/Assets/streamlit-streamlit_app-2025-12-07-00-43-21-ezgif.com-video-to-gif-converter.gif)
+![Dashboard GIF](/Assets/streamlit-streamlit_app-2025-12-07-00-43-21-ezgif.com-video-to-gif.gif)
 ## Key Insights
 - PM2.5 and NO₂ are strong predictors of EMS call volumes.  
 - Google Trends searches for “breathing problems” and “ambulance” provide digital indicators.  
